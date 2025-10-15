@@ -143,9 +143,7 @@ X_robust.to_csv("Income_Robust_Scaled.csv", index=False)
 chi2_scores.to_csv("Income_Chi2_FeatureScores.csv", index=False)
 anova_scores.to_csv("Income_ANOVA_FeatureScores.csv", index=False)
 mi_scores.to_csv("Income_MutualInfo_FeatureScores.csv", index=False)
-```
 
-<img width="495" height="325" alt="image" src="https://github.com/user-attachments/assets/4634e609-fe48-4fed-9b32-0aaed4db19fb" />
 
 ```
 ```
