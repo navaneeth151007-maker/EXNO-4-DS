@@ -144,10 +144,10 @@ chi2_scores.to_csv("Income_Chi2_FeatureScores.csv", index=False)
 anova_scores.to_csv("Income_ANOVA_FeatureScores.csv", index=False)
 mi_scores.to_csv("Income_MutualInfo_FeatureScores.csv", index=False)
 
-
+```
 ```
 ```
 
 # RESULT:
-The above program and output Feature Scaling and Selection
+The above code  and output  for the Feature Scaling and Selection
        
